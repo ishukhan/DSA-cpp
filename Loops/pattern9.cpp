@@ -13,7 +13,7 @@ int main()
         int value = row;
         while (col <= row)
         {
-            cout << value;
+            cout << value << " ";
             value = value + 1;
             col = col + 1;
         }

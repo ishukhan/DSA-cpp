@@ -13,7 +13,7 @@ int main()
         int space = n - row;
         while (space)
         {
-            cout << "-";
+            cout << " ";
             space--;
         }
         // star print kardo

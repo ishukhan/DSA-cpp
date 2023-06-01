@@ -14,7 +14,7 @@ int main()
         {
 
             char ch = 'A' + n - row + col - 1;
-            cout << ch;
+            cout << ch << " ";
             col++;
         }
         cout << endl;

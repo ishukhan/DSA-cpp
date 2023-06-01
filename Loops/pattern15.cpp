@@ -13,7 +13,7 @@ int main()
         while (j <= i)
         {
             char ch = 'A' + i - 1;
-            cout << ch;
+            cout << ch << " ";
             j++;
         }
         cout << endl;
