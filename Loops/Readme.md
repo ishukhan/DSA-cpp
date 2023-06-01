@@ -81,4 +81,24 @@
  <h3>20. PATTERN</h3>
     <img src="https://i.ibb.co/C8H5gQF/20.png" alt="20. PATTERN" style="width:50px  height:50px">
  </span>
+  <span>
+ <h3>21. PATTERN</h3>
+    <img src="https://i.ibb.co/4TknPk1/21.png" alt="21. PATTERN" style="width:50px  height:50px">
+ </span>
+  <span>
+ <h3>22. PATTERN</h3>
+    <img src="https://i.ibb.co/h7HdLX1/22.pn2" alt="22. PATTERN" style="width:50px  height:50px">
+ </span>
+  <span>
+ <h3>23. PATTERN</h3>
+    <img src="https://i.ibb.co/SfyCcgg/23.png" alt="23. PATTERN" style="width:50px  height:50px">
+ </span>
+  <span>
+ <h3>24. PATTERN</h3>
+    <img src="https://i.ibb.co/QrVsnXv/24.png" alt="24. PATTERN" style="width:50px  height:50px">
+ </span>
+  <span>
+ <h3>25. PATTERN</h3>
+    <img src="https://i.ibb.co/QCssjwt/25.png" alt="25. PATTERN" style="width:50px  height:50px">
+ </span>
   </div>
