@@ -87,7 +87,7 @@
  </span>
   <span>
  <h3>22. PATTERN</h3>
-    <img src="https://i.ibb.co/h7HdLX1/22.pn2" alt="22. PATTERN" style="width:50px  height:50px">
+    <img src="https://i.ibb.co/h7HdLX1/22.png" alt="22. PATTERN" style="width:50px  height:50px">
  </span>
   <span>
  <h3>23. PATTERN</h3>
