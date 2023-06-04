@@ -1,2 +1,0 @@
-
-        while (col <= row)

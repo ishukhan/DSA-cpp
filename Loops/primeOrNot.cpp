@@ -9,7 +9,6 @@ int main()
 
     while (i < n)
     {
-        /* code */
         if (n % i == 0)
         {
 
