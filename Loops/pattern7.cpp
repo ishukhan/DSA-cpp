@@ -19,6 +19,7 @@ int main()
         row = row + 1;
     }
 
+    
     //     int row = 1;
     //     int toprint = 1;
     //     while (row <= n)
