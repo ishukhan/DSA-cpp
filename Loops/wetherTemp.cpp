@@ -7,6 +7,7 @@ int main()
     float fer;
     float cel;
     int choose;
+    
     cout << "1. Celsius to Fahrenheit" << endl;
     cout << "2. Fahrenheit to Celsius" << endl;
     cout << endl;
