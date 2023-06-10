@@ -18,6 +18,6 @@ int main()
 
     string i = "ishukhan";
     int len = i.size();
-    i[len - 1] = '2';
+    i[len - 1] = 'l';
     cout << i[len - 1];
 }
