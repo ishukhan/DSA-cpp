@@ -10,21 +10,33 @@ using namespace std;
 // non parameterised
 
 // this is void funtion without any parameter
-// void printName()
-// {
-//     cout << "hey ishu" << endl;
-// }
+/*void printName()
+{
+    cout << "hey ishu" << endl;
+}*/
 
 // this funtion take parameter
-void printName(string name)
+/*void printName(string name)
 {
     cout << "hey " + name << endl;
+}*/
+
+// Q. Take two number and print its sum;
+int sum(int num1, int num2)
+{
+    int num3 = num1 + num2;
+    return num3;
 }
 
 int main()
 {
-    string name;
-    cin >> name;
-    printName(name);
+    /*  string name;
+        cin >> name;
+        printName(name);
+    */
+    int a, b;
+    cin >> a >> b;
+    int res = sum(a, b);
+    cout << res;
     return 0;
 }
